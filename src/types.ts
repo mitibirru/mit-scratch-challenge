@@ -1,0 +1,1 @@
+export type Move = 'move' | 'rotate-clockwise' | 'rotate-anti-clockwise' | 'go-to-x-y' | 'set-x' | 'set-y' | 'change-x' | 'change-y'
